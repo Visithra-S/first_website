@@ -1,0 +1,19 @@
+.container{
+    border: 0cap;
+    padding: auto;
+    color: wheat;
+    text-justify: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    align-content: center;
+    color: blueviolet;
+    
+}
+
+.content{
+    align-content: center;
+    font-size: medium;
+    text-align: justify;
+}
